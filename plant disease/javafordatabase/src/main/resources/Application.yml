@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb://myprojectplantdisease22:iwillcompletethisproject22@ac-z3engzt-shard-00-00.wv2cvdr.mongodb.net:27017,ac-z3engzt-shard-00-01.wv2cvdr.mongodb.net:27017,ac-z3engzt-shard-00-02.wv2cvdr.mongodb.net:27017/?ssl=true&replicaSet=atlas-14jlo6-shard-0&authSource=admin&retryWrites=true&w=majority
+#      uri : mongodb+srv://myprojectplantdisease22:iwillcompletethisproject22@cluster0.wv2cvdr.mongodb.net/?retryWrites=true&w=majority
+#      uri : mongosh "mongodb+srv://cluster0.wv2cvdr.mongodb.net/" --apiVersion 1 --username myprojectplantdisease22
+      database : Task
+#spring:
+#  data:
+#    mongodb:
+#      uri : mongodb://myproject:faculty22@ac-lhw1lfh-shard-00-00.dvhrjty.mongodb.net:27017,ac-lhw1lfh-shard-00-01.dvhrjty.mongodb.net:27017,ac-lhw1lfh-shard-00-02.dvhrjty.mongodb.net:27017/?ssl=true&replicaSet=atlas-d0oq3x-shard-0&authSource=admin&retryWrites=true&w=majority
+#      database : Task

@@ -1,0 +1,206 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+  /* .notfound{
+    background-image: url('https://img.freepik.com/free-vector/page-error-404-background_3338-15.jpg?size=338c&ext=jpg');
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  } */
+  body{
+
+background-image: url('https://tse3.mm.bing.net/th?id=OIP.q0tyR8lv3dKKeVNpFGWc9AHaEK&pid=Api&P=0&h=180');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  
+}
+
+img {
+  max-width: 100%
+}
+
+.image {
+  flex-basis: 40%
+}
+.text {
+  font-size: 20px;
+  padding-left: 10px;
+}
+tbody{
+    text-align: left;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  
+}
+a{
+    text-decoration: none;
+}
+table{
+  border: 2px solid rgb(35, 32, 32);
+  color: black;
+  width:500px;
+ 
+}
+th{
+  border: 2px solid rgb(35, 32, 32);
+  color: black;
+
+}
+td{
+    border: 2px solid rgb(35, 32, 32);
+}
+
+img {
+  max-width: 100%
+}
+
+.image {
+  flex-basis: 40%
+}
+.text {
+  font-size: 20px;
+  padding-left: 10px;
+}
+tbody{
+    text-align: left;
+}
+
+
+  th{
+    border: 2px solid rgb(35, 32, 32);
+    color: black;
+  
+  }
+  td{
+      border: 2px solid rgb(35, 32, 32);
+  }
+  th{
+      background-color: rgba(127, 133, 139, 0.39);}
+  td{
+      background-color: rgba(255, 255, 255, 0.789);
+  }
+  form{
+    
+    background-color: rgb(231, 255, 207);
+
+  }
+  .register-form{
+    background-color: rgba(193, 215, 251, 0.788);
+
+  }
+  .login-form{
+    background-color: rgba(244, 250, 165, 0.788);
+
+  }
+  .register-forms{
+    background-color: rgba(236, 202, 245, 0.788);
+  }
+  .login-forms{
+    background-color: rgba(215, 228, 255, 0.788);
+
+  }
+  .notfound{
+    background-image: url('https://dsim.in/blog/wp-content/uploads/2017/08/404_page_dssim-837x560.jpg');
+ 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+     
+.sidebyside{
+text-align: end;
+}
+.sidetoside{
+  text-align: center;
+  }
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+nav{
+    background-color: rgb(27, 107, 0); 
+    overflow: hidden;
+   
+}
+.imagedoc{
+  width: auto;
+  height: 400px;
+  
+}
+.logoimage{
+  width: auto;
+  height: 40px;
+}form{
+    
+    background-color: rgb(231, 255, 207);
+
+  }
+  .register-form{
+    background-color: rgba(193, 215, 251, 0.788);
+
+  }
+  .login-form{
+    background-color: rgba(244, 250, 165, 0.788);
+
+  }
+  .register-forms{
+    background-color: rgba(236, 202, 245, 0.788);
+  }
+  .login-forms{
+    background-color: rgba(215, 228, 255, 0.788);
+
+  }
+  .notfound{
+    background-image: url('https://dsim.in/blog/wp-content/uploads/2017/08/404_page_dssim-837x560.jpg');
+ 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  }
